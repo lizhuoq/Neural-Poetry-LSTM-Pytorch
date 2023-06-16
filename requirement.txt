@@ -1,0 +1,5 @@
+torch
+tqdm
+loguru
+fire
+streamlit
