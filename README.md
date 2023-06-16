@@ -1,5 +1,5 @@
 # Neural-Poetry-LSTM-Pytorch  
-训练 `python main train `  
+训练 `python main.py train `  
 参数可以选择指定，默认参数为
 ```
 --epoch 50  
