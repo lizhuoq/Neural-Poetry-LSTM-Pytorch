@@ -10,8 +10,10 @@
 
 推理可以采用**streamlit**构建的APP  
 激活虚拟环境，在命令行中运行`streamlit run app.py`   
-**例：**
-![result](temp/屏幕截图%202023-06-16%20154916.jpg)  
+**例：**  
+<div  align="center">
+  <img src="./temp/屏幕截图%202023-06-16%20154916.jpg" alt="img" width="100%" />
+</div>
 输入prompt, 然后点击 submit   
 
 ## 依赖  
