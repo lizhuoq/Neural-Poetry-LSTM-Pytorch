@@ -17,4 +17,7 @@
 输入prompt, 然后点击 submit   
 
 ## 依赖  
-`pip install -r requirement.txt -i https://pypi.douban.com/simple`
+`pip install -r requirement.txt -i https://pypi.douban.com/simple`  
+## 权重文件  
+提供已经训练过的权重文件，位置在:   
+`./models/[2023-06-16-14_19_58]_49.pth`
